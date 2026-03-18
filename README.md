@@ -160,4 +160,4 @@ python notebooks/eda_analysis.py
 
 ## 👤 Author
 
-**Your Name** | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Mohipal K** | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
